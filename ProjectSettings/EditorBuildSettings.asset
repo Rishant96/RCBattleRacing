@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 91c7e3434b8e1e144abc95c6703fa27a
+  - enabled: 1
+    path: Assets/Scenes/TrackSelection.unity
+    guid: 2f9e3ecd108a15b49ac23a996962669c
+  - enabled: 1
+    path: Assets/Scenes/StandardCircuit.unity
+    guid: 746afb057636e88498dab8460916f130
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/RaceEnd.unity
+    guid: b7155d2c61c7b3d46a606450bbfe7924
+  - enabled: 1
+    path: Assets/Scenes/BeachCircuit.unity
+    guid: ae47ae1ebf107254d905819d077fef1e
+  m_configObjects: {}
